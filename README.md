@@ -8,6 +8,12 @@ At IFF, I led two project teams totaling approximately eight people on global Bi
 
 International customer work, FICO events and training in Mexico and the United States inform my approach to culturally aware communication and effective collaboration across locations and time zones.
 
+## Explore the work behind the decisions
+
+- **Credit modeling and origination:** [Xper — from datasets to origination decisions](https://nandevers.github.io/portfolio/xper/). A retrospective on an MLflow-based modeling workflow, with a new synthetic origination-funnel illustration. The original implementation and customer data are not public.
+- **Forecasting and operational planning:** [Forecasts that add up](https://nandevers.github.io/forecasting/). A field note on hierarchical forecasting and reconciliation, with a synthetic interactive example.
+- **Research and model evaluation:** [My UNICAMP master's research](https://nandevers.github.io/research/masters/). Reinforcement learning for agricultural-insurance fraud-prevention research; a research reward is not validated fraud-detection accuracy.
+
 ## Selected personal work
 
 - [Credit-agent experiments](https://github.com/nandevers/agent-experiments): notebook prototypes connecting synthetic lending data, SQL agents and a stateful policy-analysis workflow. The README explains the current scope and reproducibility limits.
@@ -23,7 +29,8 @@ International customer work, FICO events and training in Mexico and the United S
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/) · [Portfolio](https://fernando-barbosa-applied-ai.nandevers.chatgpt.site)
+For an applied AI or decision-science leadership opportunity, [explore my experience](https://nandevers.github.io/experience/) and [start a conversation](https://nandevers.github.io/connect/). Share the problem, team mandate and location or remote arrangement so we can assess the fit.
+
+[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/) · [Portfolio](https://nandevers.github.io/)
 
 Personal repositories and writing reflect my own views. Research prototypes are labeled and should not be read as employer products or claims of production deployment.
-
