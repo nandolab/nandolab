@@ -10,7 +10,7 @@ International customer work, FICO events and training in Mexico and the United S
 
 ## Explore the work behind the decisions
 
-- **Credit modeling and origination:** [Xper — from datasets to origination decisions](https://nandevers.github.io/portfolio/xper/). A retrospective on an MLflow-based modeling workflow, with a new synthetic origination-funnel illustration. The original implementation and customer data are not public.
+- **Credit modeling and origination:** [Xper — from datasets to origination decisions](https://nandevers.github.io/portfolio/xper/). A retrospective on an MLflow-based modeling workflow, with a new synthetic origination-funnel illustration. [Read how I built the software on Medium](https://fernando-liaison.medium.com/beyond-the-model-software-i-built-to-connect-credit-experiments-to-origination-decisions-c6e49c22a340?source=github-profile). The original implementation and customer data are not public.
 - **Forecasting and operational planning:** [Forecasts that add up](https://nandevers.github.io/forecasting/). A field note on hierarchical forecasting and reconciliation, with a synthetic interactive example.
 - **Research and model evaluation:** [My UNICAMP master's research](https://nandevers.github.io/research/masters/). Reinforcement learning for agricultural-insurance fraud-prevention research; a research reward is not validated fraud-detection accuracy.
 
@@ -18,7 +18,7 @@ International customer work, FICO events and training in Mexico and the United S
 
 - [Credit-agent experiments](https://github.com/nandevers/agent-experiments): notebook prototypes connecting synthetic lending data, SQL agents and a stateful policy-analysis workflow. The README explains the current scope and reproducibility limits.
 - [pySidraData](https://github.com/nandevers/pySidraData): a Python client for exploring IBGE data, metadata and tabular outputs.
-- [Writing](https://fernando-liaison.medium.com/): applied data science, experimentation and technical explanations.
+- [More writing](https://fernando-liaison.medium.com/): applied data science, experimentation and technical explanations.
 
 ## Topics I work on
 
