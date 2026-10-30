@@ -10,14 +10,14 @@ International customer work, FICO events and training in Mexico and the United S
 
 ## Explore the work behind the decisions
 
-- **Credit modeling and origination:** [Xper — from datasets to origination decisions](https://nandevers.github.io/portfolio/xper/). A retrospective on an MLflow-based modeling workflow, with a new synthetic origination-funnel illustration. [Read how I built the software on Medium](https://fernando-liaison.medium.com/beyond-the-model-software-i-built-to-connect-credit-experiments-to-origination-decisions-c6e49c22a340?source=github-profile). The original implementation and customer data are not public.
-- **Forecasting and operational planning:** [Forecasts that add up](https://nandevers.github.io/forecasting/). A field note on hierarchical forecasting and reconciliation, with a synthetic interactive example.
-- **Research and model evaluation:** [My UNICAMP master's research](https://nandevers.github.io/research/masters/). Reinforcement learning for agricultural-insurance fraud-prevention research; a research reward is not validated fraud-detection accuracy.
+- **Credit modeling and origination:** [Xper — from datasets to origination decisions](https://nandolab.github.io/portfolio/xper/). A retrospective on an MLflow-based modeling workflow, with a new synthetic origination-funnel illustration. [Read how I built the software on Medium](https://fernando-liaison.medium.com/beyond-the-model-software-i-built-to-connect-credit-experiments-to-origination-decisions-c6e49c22a340?source=github-profile). The original implementation and customer data are not public.
+- **Forecasting and operational planning:** [Forecasts that add up](https://nandolab.github.io/forecasting/). A field note on hierarchical forecasting and reconciliation, with a synthetic interactive example.
+- **Research and model evaluation:** [My UNICAMP master's research](https://nandolab.github.io/research/masters/). Reinforcement learning for agricultural-insurance fraud-prevention research; a research reward is not validated fraud-detection accuracy.
 
 ## Selected personal work
 
-- [Credit-agent experiments](https://github.com/nandevers/agent-experiments): notebook prototypes connecting synthetic lending data, SQL agents and a stateful policy-analysis workflow. The README explains the current scope and reproducibility limits.
-- [pySidraData](https://github.com/nandevers/pySidraData): a Python client for exploring IBGE data, metadata and tabular outputs.
+- [Credit-agent experiments](https://github.com/nandolab/agent-experiments): notebook prototypes connecting synthetic lending data, SQL agents and a stateful policy-analysis workflow. The README explains the current scope and reproducibility limits.
+- [pySidraData](https://github.com/nandolab/pySidraData): a Python client for exploring IBGE data, metadata and tabular outputs.
 - [More writing](https://fernando-liaison.medium.com/): applied data science, experimentation and technical explanations.
 
 ## Topics I work on
@@ -29,8 +29,8 @@ International customer work, FICO events and training in Mexico and the United S
 
 ## Connect
 
-For an applied AI or decision-science leadership opportunity, [explore my experience](https://nandevers.github.io/experience/) and [start a conversation](https://nandevers.github.io/connect/). Share the problem, team mandate and location or remote arrangement so we can assess the fit.
+For an applied AI or decision-science leadership opportunity, [explore my experience](https://nandolab.github.io/experience/) and [start a conversation](https://nandolab.github.io/connect/). Share the problem, team mandate and location or remote arrangement so we can assess the fit.
 
-[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/) · [Portfolio](https://nandevers.github.io/)
+[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/) · [Portfolio](https://nandolab.github.io/)
 
 Personal repositories and writing reflect my own views. Research prototypes are labeled and should not be read as employer products or claims of production deployment.
